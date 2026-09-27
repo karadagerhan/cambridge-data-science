@@ -1,34 +1,54 @@
 # Cambridge Data Science & ML Accelerator
 
-Portfolio of projects completed during the University of Cambridge Data Science & ML Accelerator Programme, plus self-directed extensions applying the same skills to biology and genomics.
+This repository documents my technical development through the Cambridge Data Science with Machine Learning & AI Accelerator.
 
-**Author:** Erhan Karadag
-**Background:** Bioengineering | Nanoparticle synthesis, biomaterials, CRISPR regulation
-**Focus:** Applying data science and machine learning to life sciences and biotechnology
+My background is in bioengineering and scientific research, and I am using the programme to build stronger skills in data analysis, statistics, machine learning and AI.
 
-## Projects
+## Topics Covered
 
-### Course 1 — Applying Statistics and Core Data Science Techniques in Business
+### Statistics and Data Analysis
 
-- **[Customer Segmentation with Clustering](./customer-segmentation)** — Unsupervised clustering (K-means, hierarchical) of 68,300 e-commerce customers across 47 countries, validated with Elbow, Silhouette, and dendrogram methods, visualised with PCA and t-SNE.
+- Statistical testing and hypothesis testing
+- Regression and correlation
+- Data preprocessing and feature engineering
+- Missing data and outlier handling
+- Dimensionality reduction with PCA and t-SNE
+- Clustering and anomaly detection
 
-### Self-Directed
+### Machine Learning
 
-- **[Gene Expression Clustering for Cancer Subtype Discovery](./gene-expression-clustering)** — Extension of the Course 1 clustering pipeline into genomics. Tests whether cancer types can be rediscovered from gene expression alone, with no diagnostic labels used during clustering. K-means achieved 0.794 Adjusted Rand Index against true cancer type labels.
+- Linear and logistic regression
+- Decision trees and Random Forest
+- Gradient Boosting and XGBoost
+- Model evaluation and hyperparameter tuning
+- Neural networks with TensorFlow
 
-### Course 2 — Solving Business Problems with Supervised Learning
-*In progress*
+### Natural Language Processing
 
-### Course 3 — Applying Advanced Data Science Techniques
-*Upcoming*
+- Text preprocessing
+- Bag of Words and TF-IDF
+- Word embeddings
+- RNNs and LSTMs
+- Transformer architectures
 
-### Course 4 — Employer Project
-*Upcoming*
+## Tools
 
-## Tools & Skills
+Python · Pandas · NumPy · scikit-learn · TensorFlow · Jupyter · Matplotlib
 
-Python, Pandas, NumPy, Scikit-learn, SciPy, Matplotlib, Statistical Analysis, Hypothesis Testing, Regression, Feature Engineering, Unsupervised Learning, Clustering, Dimensionality Reduction (PCA, t-SNE)
+## Project Work
 
-## Connect
+The programme includes applied data science projects using real-world datasets. Some project work involves confidential data and materials, so proprietary datasets, code, outputs and project materials are not published in this repository.
+
+I am also applying the skills developed through the programme to independent biological data projects.
+
+### Cancer Transcriptomics Analysis
+
+My current self-directed project explores cancer gene-expression data using dimensionality reduction and unsupervised learning.
+
+[View the project](https://github.com/karadagerhan/cancer-transcriptomics-analysis)
+
+## About Me
+
+Bioengineer with research experience across biotechnology, biomaterials and pharmaceutical environments, now combining this background with data science and machine learning.
 
 [LinkedIn](https://linkedin.com/in/erhankaradag)
